@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm mujeeb ul hasssan</h1>
-<h3 align="center">A passionate web developer from pakistan</h3>
+<h3 align="center">A passionate front web developer from pakistan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubeeyashkun95&label=Profile%20views&color=yellow&abbreviated=true" alt="mubeeyashkun95" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mubeeyashkun95&theme=dark_dimmed&no-frame=true&margin-w=10&margin-h=10" alt="mubeeyashkun95" /></a> </p>
